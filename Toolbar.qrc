@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/toolBar">
+        <file>image/open.PNG</file>
+        <file>image/proc.PNG</file>
+    </qresource>
+</RCC>
